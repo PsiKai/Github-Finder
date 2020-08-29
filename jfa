@@ -1,0 +1,23 @@
+[33mcommit ae9a570bd1acf15067b6123a1fd1553c364df205[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: David <davidirvin47@gmail.com>
+Date:   Thu Aug 27 13:36:57 2020 -0600
+
+    version 2 with functional components
+
+[33mcommit 86bc399d7a97e2cc69e0edf8ded26eaea8914afe[m
+Author: David <davidirvin47@gmail.com>
+Date:   Thu Aug 27 12:13:46 2020 -0600
+
+    version 1 with class components
+
+[33mcommit b2bc8f8da311827e4cdbd53d42d6f7ec25085466[m
+Author: David <davidirvin47@gmail.com>
+Date:   Thu Aug 27 12:11:42 2020 -0600
+
+    version 1 with class components
+
+[33mcommit 814b90a2470487c2957bdbd8f3c529fec89f03c4[m
+Author: David <davidirvin47@gmail.com>
+Date:   Tue Aug 25 22:12:22 2020 -0600
+
+    Initialize project using Create React App
